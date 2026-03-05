@@ -12,7 +12,7 @@ EXCLUDE_OWNERS = {"benthamite", "tlon-team", "fstafforini"}
 README_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "README.md")
 START_MARKER = "<!-- CONTRIBUTIONS:START -->"
 END_MARKER = "<!-- CONTRIBUTIONS:END -->"
-CARD_BASE = "https://github-readme-stats.vercel.app/api/pin/"
+CARD_BASE = "https://github-readme-stats-fast.vercel.app/api/pin/"
 MAX_CARDS = 10
 
 QUERY = """
