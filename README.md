@@ -28,7 +28,7 @@ I spend most of my time inside Emacs, writing Elisp and contributing to the pack
 </p>
 <!-- CONTRIBUTIONS:END -->
 
-#### My Emacs packages
+#### Packages I've developed
 
 These packages were private until recently; I am now making them public.
 
