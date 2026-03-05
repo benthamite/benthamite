@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo
 
-I spend most of my time inside Emacs, writing Elisp and contributing to the packages I depend on. I work at [Tlon](https://github.com/tlon-team).
+I spend most of my time inside Emacs, writing Elisp and contributing to the packages I depend on.
 
 <p>
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=benthamite&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" />
