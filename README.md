@@ -37,6 +37,7 @@ These packages were private until recently; I am now making them public.
   <a href="https://github.com/benthamite/bib"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=bib&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/claude-log"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=claude-log&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/gptel-plus"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=gptel-plus&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/benthamite/johnson"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=johnson&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/kelly"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=kelly&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/mullvad"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=mullvad&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/org-indent-pixel"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=org-indent-pixel&hide_border=true&theme=transparent" /></a>
