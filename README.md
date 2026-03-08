@@ -30,7 +30,7 @@ I spend most of my time inside Emacs.
 
 #### Packages I've developed
 
-These packages were private until recently.
+Note that these packages were private until recently.
 
 <p>
   <a href="https://github.com/benthamite/annas-archive"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=annas-archive&hide_border=true&theme=transparent" /></a>
