@@ -21,10 +21,10 @@ I spend most of my time inside Emacs.
   <a href="https://github.com/seagle0128/doom-modeline"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=seagle0128&repo=doom-modeline&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/zevlg/telega.el"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zevlg&repo=telega.el&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/MatthewZMD/aidermacs"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MatthewZMD&repo=aidermacs&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/protesilaos/modus-themes"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=protesilaos&repo=modus-themes&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/emacs-citar/citar"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emacs-citar&repo=citar&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/org2blog/org2blog"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=org2blog&repo=org2blog&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/kidd/org-gcal.el"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kidd&repo=org-gcal.el&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/joostkremers/ebib"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=joostkremers&repo=ebib&hide_border=true&theme=transparent" /></a>
 </p>
 <!-- CONTRIBUTIONS:END -->
 
