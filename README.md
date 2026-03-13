@@ -37,6 +37,7 @@ Note that these packages were private until recently.
   <a href="https://github.com/benthamite/bib"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=bib&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/claude-log"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=claude-log&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/elfeed-ai"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=elfeed-ai&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/benthamite/gdocs"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=gdocs&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/gptel-plus"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=gptel-plus&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/johnson"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=johnson&hide_border=true&theme=transparent&v=1" /></a>
   <a href="https://github.com/benthamite/kelly"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=kelly&hide_border=true&theme=transparent" /></a>
