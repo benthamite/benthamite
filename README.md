@@ -7,10 +7,6 @@ I spend most of my time inside Emacs.
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=benthamite&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=benthamite&hide_border=true&theme=transparent" />
-</p>
-
 #### Packages I contribute to
 
 <!-- CONTRIBUTIONS:START -->
