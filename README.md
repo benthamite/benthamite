@@ -46,5 +46,6 @@ Note that these packages were private until recently.
   <a href="https://github.com/benthamite/pangram"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=pangram&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/pdf-tools-pages"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=pdf-tools-pages&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/spofy"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=spofy&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/benthamite/trx"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=trx&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/wikipedia"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=wikipedia&hide_border=true&theme=transparent" /></a>
 </p>
