@@ -19,8 +19,8 @@ I spend most of my time inside Emacs.
   <a href="https://github.com/zevlg/telega.el"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zevlg&repo=telega.el&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/emacs-slack/emacs-slack"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emacs-slack&repo=emacs-slack&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/progfolio/elpaca"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=progfolio&repo=elpaca&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/MatthewZMD/aidermacs"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MatthewZMD&repo=aidermacs&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/magit/transient"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=magit&repo=transient&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/protesilaos/modus-themes"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=protesilaos&repo=modus-themes&hide_border=true&theme=transparent" /></a>
 </p>
 <!-- CONTRIBUTIONS:END -->
 
