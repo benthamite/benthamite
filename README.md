@@ -13,7 +13,7 @@ I spend most of my time inside Emacs.
 <p>
   <a href="https://github.com/org-roam/org-roam"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=org-roam&repo=org-roam&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/karthink/gptel"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=karthink&repo=gptel&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/skeeto/elfeed"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=skeeto&repo=elfeed&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/emacs-elfeed/elfeed"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emacs-elfeed&repo=elfeed&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/seagle0128/doom-modeline"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=seagle0128&repo=doom-modeline&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/AndreaCrotti/yasnippet-snippets"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AndreaCrotti&repo=yasnippet-snippets&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/zevlg/telega.el"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zevlg&repo=telega.el&hide_border=true&theme=transparent" /></a>
