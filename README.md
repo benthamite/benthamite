@@ -15,12 +15,12 @@ I spend most of my time inside Emacs.
   <a href="https://github.com/karthink/gptel"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=karthink&repo=gptel&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/emacs-elfeed/elfeed"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emacs-elfeed&repo=elfeed&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/zotero/translators"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zotero&repo=translators&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/seagle0128/doom-modeline"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=seagle0128&repo=doom-modeline&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/zevlg/telega.el"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zevlg&repo=telega.el&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/AndreaCrotti/yasnippet-snippets"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AndreaCrotti&repo=yasnippet-snippets&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/emacs-slack/emacs-slack"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=emacs-slack&repo=emacs-slack&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/progfolio/elpaca"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=progfolio&repo=elpaca&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/protesilaos/modus-themes"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=protesilaos&repo=modus-themes&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/magit/transient"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=magit&repo=transient&hide_border=true&theme=transparent" /></a>
 </p>
 <!-- CONTRIBUTIONS:END -->
 
