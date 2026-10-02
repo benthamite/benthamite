@@ -29,6 +29,7 @@ I spend most of my time inside Emacs, managing my army of AI agents. You probabl
 Note that these packages were private until recently.
 
 <p>
+  <a href="https://github.com/benthamite/agent"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=agent&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/agent-log"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=agent-log&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/anki-noter"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=anki-noter&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/annas-archive"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=annas-archive&hide_border=true&theme=transparent" /></a>
