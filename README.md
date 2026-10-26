@@ -43,6 +43,7 @@ I spend most of my time inside Emacs, managing my army of AI agents. You probabl
   <a href="https://github.com/benthamite/org-table-wrap"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=org-table-wrap&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/pangram"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=pangram&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/pdf-tools-pages"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=pdf-tools-pages&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/benthamite/redline"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=redline&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/sgn"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=sgn&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/spofy"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=spofy&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/benthamite/trx"><img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=benthamite&repo=trx&hide_border=true&theme=transparent" /></a>
