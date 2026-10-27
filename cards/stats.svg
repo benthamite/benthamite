@@ -8,8 +8,8 @@
   </style>
   <text class="header" x="25" y="35">benthamite's GitHub stats</text>
   <text class="stat" x="25" y="75">Total stars earned:</text><text class="stat" x="250" y="75">120</text>
-  <text class="stat" x="25" y="100">Commits (last year):</text><text class="stat" x="250" y="100">47,689</text>
-  <text class="stat" x="25" y="125">Total pull requests:</text><text class="stat" x="250" y="125">330</text>
-  <text class="stat" x="25" y="150">Total issues:</text><text class="stat" x="250" y="150">1,532</text>
-  <text class="stat" x="25" y="175">Contributed to (last year):</text><text class="stat" x="250" y="175">138</text>
+  <text class="stat" x="25" y="100">Commits (last year):</text><text class="stat" x="250" y="100">10,129</text>
+  <text class="stat" x="25" y="125">Total pull requests:</text><text class="stat" x="250" y="125">99</text>
+  <text class="stat" x="25" y="150">Total issues:</text><text class="stat" x="250" y="150">276</text>
+  <text class="stat" x="25" y="175">Contributed to (last year):</text><text class="stat" x="250" y="175">32</text>
 </svg>
