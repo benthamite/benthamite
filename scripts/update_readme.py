@@ -12,7 +12,6 @@ EXCLUDE_OWNERS = {"benthamite", "tlon-team", "fstafforini"}
 README_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "README.md")
 START_MARKER = "<!-- CONTRIBUTIONS:START -->"
 END_MARKER = "<!-- CONTRIBUTIONS:END -->"
-CARD_BASE = "https://github-readme-stats-fast.vercel.app/api/pin/"
 MAX_CARDS = 10
 
 QUERY = """
@@ -56,7 +55,7 @@ def format_cards(repos):
     for r in repos:
         owner, repo = r["nameWithOwner"].split("/")
         url = r["url"]
-        card_url = f"{CARD_BASE}?username={owner}&repo={repo}&hide_border=true&theme=transparent"
+        card_url = f"cards/pin/{owner}/{repo}.svg"
         lines.append(
             f'  <a href="{url}"><img width="400" src="{card_url}" /></a>'
         )

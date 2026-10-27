@@ -19,11 +19,15 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_readme.py
+      - name: Render cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_cards.py
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git diff --quiet && exit 0
-          git add README.md
-          git commit -m "readme: update contribution cards"
+          git add README.md cards
+          git diff --cached --quiet && exit 0
+          git commit -m "readme: update cards"
           git push

@@ -1,0 +1,13 @@
+<svg width="350" height="205" viewBox="0 0 350 205" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #006AFF }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87 }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87 }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87 }
+    .icon { fill: #0579C3 }
+  </style>
+  <text class="header" x="25" y="35">Most Used Languages</text>
+  <mask id="bar"><rect x="0" y="0" width="250" height="8" fill="white" rx="5"/></mask>
+  <g transform="translate(25, 55)"><g mask="url(#bar)"><rect x="0.00" y="0" width="166.62" height="8" fill="#e34c26"/><rect x="166.62" y="0" width="43.40" height="8" fill="#c065db"/><rect x="210.02" y="0" width="34.65" height="8" fill="#3572A5"/><rect x="244.67" y="0" width="2.66" height="8" fill="#89e051"/><rect x="247.33" y="0" width="1.19" height="8" fill="#f1e05a"/><rect x="248.52" y="0" width="0.54" height="8" fill="#663399"/><rect x="249.06" y="0" width="0.51" height="8" fill="#000080"/><rect x="249.57" y="0" width="0.43" height="8" fill="#32AB90"/></g></g>
+  <g transform="translate(25, 80)"><circle cx="5" cy="6" r="5" fill="#e34c26"/><text class="gray" x="15" y="10">HTML 66.65%</text><circle cx="155" cy="6" r="5" fill="#c065db"/><text class="gray" x="165" y="10">Emacs Lisp 17.36%</text><circle cx="5" cy="31" r="5" fill="#3572A5"/><text class="gray" x="15" y="35">Python 13.86%</text><circle cx="155" cy="31" r="5" fill="#89e051"/><text class="gray" x="165" y="35">Shell 1.06%</text><circle cx="5" cy="56" r="5" fill="#f1e05a"/><text class="gray" x="15" y="60">JavaScript 0.47%</text><circle cx="155" cy="56" r="5" fill="#663399"/><text class="gray" x="165" y="60">CSS 0.22%</text><circle cx="5" cy="81" r="5" fill="#000080"/><text class="gray" x="15" y="85">Lua 0.20%</text><circle cx="155" cy="81" r="5" fill="#32AB90"/><text class="gray" x="165" y="85">YASnippet 0.17%</text></g>
+</svg>
