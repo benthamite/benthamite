@@ -40,6 +40,7 @@ I spend most of my time inside Emacs, managing my army of AI agents. You probabl
   <a href="https://github.com/benthamite/kelly"><img width="400" src="cards/pin/benthamite/kelly.svg" /></a>
   <a href="https://github.com/benthamite/mullvad"><img width="400" src="cards/pin/benthamite/mullvad.svg" /></a>
   <a href="https://github.com/benthamite/org-indent-pixel"><img width="400" src="cards/pin/benthamite/org-indent-pixel.svg" /></a>
+  <a href="https://github.com/benthamite/org-linear"><img width="400" src="cards/pin/benthamite/org-linear.svg" /></a>
   <a href="https://github.com/benthamite/org-table-wrap"><img width="400" src="cards/pin/benthamite/org-table-wrap.svg" /></a>
   <a href="https://github.com/benthamite/pangram"><img width="400" src="cards/pin/benthamite/pangram.svg" /></a>
   <a href="https://github.com/benthamite/pdf-tools-pages"><img width="400" src="cards/pin/benthamite/pdf-tools-pages.svg" /></a>
