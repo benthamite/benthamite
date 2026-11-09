@@ -14,13 +14,13 @@ I spend most of my time inside Emacs, managing my army of AI agents. You probabl
   <a href="https://github.com/org-roam/org-roam"><img width="400" src="cards/pin/org-roam/org-roam.svg" /></a>
   <a href="https://github.com/karthink/gptel"><img width="400" src="cards/pin/karthink/gptel.svg" /></a>
   <a href="https://github.com/joaotavora/yasnippet"><img width="400" src="cards/pin/joaotavora/yasnippet.svg" /></a>
+  <a href="https://github.com/jorgenschaefer/elpy"><img width="400" src="cards/pin/jorgenschaefer/elpy.svg" /></a>
   <a href="https://github.com/emacs-elfeed/elfeed"><img width="400" src="cards/pin/emacs-elfeed/elfeed.svg" /></a>
   <a href="https://github.com/zotero/translators"><img width="400" src="cards/pin/zotero/translators.svg" /></a>
   <a href="https://github.com/zevlg/telega.el"><img width="400" src="cards/pin/zevlg/telega.el.svg" /></a>
   <a href="https://github.com/AndreaCrotti/yasnippet-snippets"><img width="400" src="cards/pin/AndreaCrotti/yasnippet-snippets.svg" /></a>
   <a href="https://github.com/emacs-slack/emacs-slack"><img width="400" src="cards/pin/emacs-slack/emacs-slack.svg" /></a>
   <a href="https://github.com/progfolio/elpaca"><img width="400" src="cards/pin/progfolio/elpaca.svg" /></a>
-  <a href="https://github.com/protesilaos/modus-themes"><img width="400" src="cards/pin/protesilaos/modus-themes.svg" /></a>
 </p>
 <!-- CONTRIBUTIONS:END -->
 
