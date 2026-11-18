@@ -44,7 +44,6 @@ I spend most of my time inside Emacs, managing my army of AI agents. You probabl
   <a href="https://github.com/benthamite/org-table-wrap"><img width="400" src="cards/pin/benthamite/org-table-wrap.svg" /></a>
   <a href="https://github.com/benthamite/pangram"><img width="400" src="cards/pin/benthamite/pangram.svg" /></a>
   <a href="https://github.com/benthamite/pdf-tools-pages"><img width="400" src="cards/pin/benthamite/pdf-tools-pages.svg" /></a>
-  <a href="https://github.com/benthamite/protean"><img width="400" src="cards/pin/benthamite/protean.svg" /></a>
   <a href="https://github.com/benthamite/quotidian"><img width="400" src="cards/pin/benthamite/quotidian.svg" /></a>
   <a href="https://github.com/benthamite/redline"><img width="400" src="cards/pin/benthamite/redline.svg" /></a>
   <a href="https://github.com/benthamite/sgn"><img width="400" src="cards/pin/benthamite/sgn.svg" /></a>
