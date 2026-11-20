@@ -50,4 +50,5 @@ I spend most of my time inside Emacs, managing my army of AI agents. You probabl
   <a href="https://github.com/benthamite/spofy"><img width="400" src="cards/pin/benthamite/spofy.svg" /></a>
   <a href="https://github.com/benthamite/trx"><img width="400" src="cards/pin/benthamite/trx.svg" /></a>
   <a href="https://github.com/benthamite/wikipedia"><img width="400" src="cards/pin/benthamite/wikipedia.svg" /></a>
+  <a href="https://github.com/benthamite/wsp"><img width="400" src="cards/pin/benthamite/wsp.svg" /></a>
 </p>
