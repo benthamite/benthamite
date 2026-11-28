@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo
 
-I spend most of my time inside Emacs, managing my army of AI agents. You probably want to check out [my dotfiles](https://github.com/benthamite/dotfiles/tree/master) first.
+I spend most of my time inside Emacs, managing my army of AI agents. You probably want to check out [my dotfiles](https://github.com/benthamite/dotfiles/tree/master) first, as well as my list of [Emacs packages](https://stafforini.com/notes/my-emacs-packages/).
 
 <p>
   <img height="180" src="cards/stats.svg" />
